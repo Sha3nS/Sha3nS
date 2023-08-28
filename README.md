@@ -25,4 +25,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://https://etherscan.io/address/0x1f9090aae28b8a3dceadf281b0f12828e676c326"> sha3n.eth </a></p><br><br>
+<p><a href="https://https://etherscan.io/address/0x1f9090aae28b8a3dceadf281b0f12828e676c326"> sha3n.eth </a></p>
