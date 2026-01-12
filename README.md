@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Layer2 * Ethereuem**
 
-- 📫 How to reach me **sha3nshen@gmail.com**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sha3ns&show_icons=true&locale=en" alt="sha3ns" /></p>
 
 <h3 align="left">Connect with me:</h3>
